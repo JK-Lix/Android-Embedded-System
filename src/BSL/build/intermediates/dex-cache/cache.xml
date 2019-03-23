@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\BSL\app\lib\android-support-v4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3b20dc871d179ba476082efe543dc1b38db46e30">
+        <dex dex="E:\BSL\app\build\intermediates\pre-dexed\debug\android-support-v4_4fa8a90d09cd5a05195f16430ed930dad15622e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\BSL\app\lib\hellocharts-library-1.5.8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="700944cb3a8ce4fe543cfac1a9146a11cbf702dc">
+        <dex dex="E:\BSL\app\build\intermediates\pre-dexed\debug\hellocharts-library-1.5.8_3d8975a5f5d342eab6d50d2020f8e3a1999f9140.jar" />
+    </item>
+
+</items>

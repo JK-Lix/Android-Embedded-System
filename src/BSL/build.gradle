@@ -1,0 +1,20 @@
+// Top-level build file where you can add configuration options common to all sub-projects/modules.
+buildscript {
+    repositories {
+        jcenter()
+        google()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:3.2.0'
+
+        compile : 'com.github.lecho:hellocharts-library:1.5.8@aar'
+    }
+}
+
+allprojects {
+    repositories {
+        google()//新增的
+        jcenter()
+    }
+}
+

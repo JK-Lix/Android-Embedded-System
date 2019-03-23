@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="fill_parent"
+              android:layout_height="fill_parent"
+              android:background= "@drawable/main1"
+              android:orientation="vertical">
+
+    <include layout="@layout/microwill_actionbar"/>
+
+    <ListView
+        android:id="@+id/mylist"
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.46"
+        android:cacheColorHint="#FF00FF00"
+        android:divider="@android:color/transparent"
+        android:dividerHeight="0dp"></ListView>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:minHeight="50dp"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/btnControl"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:background="@drawable/shape_btn"
+            android:minHeight="50dp"
+            android:text="控制"
+            android:textSize="20sp" />
+        <Button
+            android:id="@+id/btnContro2"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:background="@drawable/shape_btn"
+            android:gravity="center"
+            android:minHeight="50dp"
+            android:text="逐客令"
+            android:textSize="20sp" />
+
+
+    </LinearLayout>
+
+
+
+    <TextView
+        android:id="@+id/sceneName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:padding="5dp"
+        android:textColor="#ffffffff"
+        android:textSize="20sp"/>
+
+    <com.android.bsl.GalleryFlow
+        android:id="@+id/gallery"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"/>
+
+
+</LinearLayout>

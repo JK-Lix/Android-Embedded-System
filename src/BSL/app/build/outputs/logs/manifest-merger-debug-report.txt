@@ -1,0 +1,97 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\BSL\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from E:\BSL\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from E:\BSL\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from E:\BSL\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from E:\BSL\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from E:\BSL\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from E:\BSL\app\src\main\AndroidManifest.xml:2:1-34:12
+	package
+		ADDED from E:\BSL\app\src\main\AndroidManifest.xml:3:11-36
+		INJECTED from E:\BSL\app\src\main\AndroidManifest.xml
+		INJECTED from E:\BSL\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\BSL\app\src\main\AndroidManifest.xml:5:11-36
+		INJECTED from E:\BSL\app\src\main\AndroidManifest.xml
+		INJECTED from E:\BSL\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\BSL\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from E:\BSL\app\src\main\AndroidManifest.xml:4:11-34
+		INJECTED from E:\BSL\app\src\main\AndroidManifest.xml
+		INJECTED from E:\BSL\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from E:\BSL\app\src\main\AndroidManifest.xml:7:5-66
+	android:name
+		ADDED from E:\BSL\app\src\main\AndroidManifest.xml:7:22-64
+uses-permission#android.permission.VIBRATE
+ADDED from E:\BSL\app\src\main\AndroidManifest.xml:8:5-65
+	android:name
+		ADDED from E:\BSL\app\src\main\AndroidManifest.xml:8:22-63
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from E:\BSL\app\src\main\AndroidManifest.xml:9:5-75
+	android:name
+		ADDED from E:\BSL\app\src\main\AndroidManifest.xml:9:22-73
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\BSL\app\src\main\AndroidManifest.xml:10:5-80
+	android:name
+		ADDED from E:\BSL\app\src\main\AndroidManifest.xml:10:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\BSL\app\src\main\AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from E:\BSL\app\src\main\AndroidManifest.xml:11:22-76
+application
+ADDED from E:\BSL\app\src\main\AndroidManifest.xml:13:5-32:19
+	android:label
+		ADDED from E:\BSL\app\src\main\AndroidManifest.xml:15:9-41
+	android:icon
+		ADDED from E:\BSL\app\src\main\AndroidManifest.xml:14:9-49
+	android:theme
+		ADDED from E:\BSL\app\src\main\AndroidManifest.xml:16:9-62
+activity#com.android.bsl.LogoActivity
+ADDED from E:\BSL\app\src\main\AndroidManifest.xml:18:9-25:20
+	android:label
+		ADDED from E:\BSL\app\src\main\AndroidManifest.xml:20:13-45
+	android:name
+		ADDED from E:\BSL\app\src\main\AndroidManifest.xml:19:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\BSL\app\src\main\AndroidManifest.xml:21:13-24:29
+action#android.intent.action.MAIN
+ADDED from E:\BSL\app\src\main\AndroidManifest.xml:22:17-68
+	android:name
+		ADDED from E:\BSL\app\src\main\AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\BSL\app\src\main\AndroidManifest.xml:23:17-76
+	android:name
+		ADDED from E:\BSL\app\src\main\AndroidManifest.xml:23:27-74
+activity#com.android.bsl.BSLActivity
+ADDED from E:\BSL\app\src\main\AndroidManifest.xml:27:9-48
+	android:name
+		ADDED from E:\BSL\app\src\main\AndroidManifest.xml:27:19-46
+activity#com.android.bsl.LoginActivity
+ADDED from E:\BSL\app\src\main\AndroidManifest.xml:28:9-50
+	android:name
+		ADDED from E:\BSL\app\src\main\AndroidManifest.xml:28:19-48
+activity#com.android.bsl.ChartActivity
+ADDED from E:\BSL\app\src\main\AndroidManifest.xml:29:9-50
+	android:name
+		ADDED from E:\BSL\app\src\main\AndroidManifest.xml:29:19-48
+activity#com.android.bsl.ControlInterface
+ADDED from E:\BSL\app\src\main\AndroidManifest.xml:31:9-53
+	android:name
+		ADDED from E:\BSL\app\src\main\AndroidManifest.xml:31:19-51
+uses-sdk
+INJECTED from E:\BSL\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\BSL\app\src\main\AndroidManifest.xml
+INJECTED from E:\BSL\app\src\main\AndroidManifest.xml
+INJECTED from E:\BSL\app\src\main\AndroidManifest.xml
+INJECTED from E:\BSL\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\BSL\app\src\main\AndroidManifest.xml
+		ADDED from E:\BSL\app\src\main\AndroidManifest.xml
+		INJECTED from E:\BSL\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\BSL\app\src\main\AndroidManifest.xml
+		ADDED from E:\BSL\app\src\main\AndroidManifest.xml
+		INJECTED from E:\BSL\app\src\main\AndroidManifest.xml
